@@ -1,0 +1,45 @@
+.formAjoutPubmarge{
+    margin-top: -35px;
+}
+.form-control-statut{
+    height: 50px;
+    margin-top: 25px;
+}
+.formAjoutPubmarge button{
+    margin-top: 10px;
+    border: solid black 1px;
+}
+.affichepub{
+    margin-top: 20px;
+    border: solid gainsboro 1px;
+}
+
+.footerpub button{
+    border: none;
+    color: gray;
+    margin-bottom: 10px;
+}
+a{
+    color: blue;
+}
+.listuser{
+    margin-top: 25px;
+    height: 300px;
+    position:absolute;
+    position: fixed;
+    margin-left: 70%;
+    overflow: auto;
+}
+.titrelien{
+    font-weight: bold;
+    color: #353535;
+}
+.lien{
+    color: gray;
+}
+.btn-fichier{
+    width: 50px;
+}
+.btnfile{
+    font-size: 12px;
+}

@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.titrebody b{
+    padding: 20px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-family: 'Roboto', serif;
+    color: #353535;
+}
+.link{
+    color: white;
+}
+.epandemic{
+    font-size: 18px;
+    font-weight: bold;
+    color:gainsboro;
+}
